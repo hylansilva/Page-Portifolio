@@ -132,3 +132,14 @@ body {
   display: block;
   margin: 0 auto;
 }
+ 
+.icones{
+  border-top: 0.4px solid #FFF2E7;
+  padding-top: 30px;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFF2EF;
+  margin-bottom: 16px;
+  align-items: center;
+}
